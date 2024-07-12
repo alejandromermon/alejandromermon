@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Alejandro Mercado (@alejandromermon)
+- 👀 I’m interested in Web Development and Audio Programming for Videogames.
+- 🌱 I’m currently Studying Computer Programming at Seneca Polytechnic.
+- 💞️ I’m looking to collaborate on any open-source project.
+- 📫 How to reach me ...
+- ⚡ Fun fact: ...
