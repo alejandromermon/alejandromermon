@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Mercado</h1>
 <h3 align="center">A passionate full-stack developer from Mexico 🇲🇽</h3>
 
-- 🔭 I’m currently working on [Web Development Showcase](https://lego-sets-postgres.vercel.app/)
+- 🔭 I’m currently working on [Web Development Showcase](https://lego-sets-mongo-db.vercel.app/)
 
 - 🌱 I’m currently learning **React, Docker, PHP**
 
